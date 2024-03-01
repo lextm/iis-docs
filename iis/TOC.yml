@@ -1316,16 +1316,6 @@
           href: web-hosting/microsoft-web-farm-framework-20-for-iis-7/skipping-folders-while-provisioning-with-web-farm-framework-20-for-iis.md
         - name: Building Workflows with Web Farm Framework 2.0 for IIS 7
           href: web-hosting/microsoft-web-farm-framework-20-for-iis-7/building-workflows-with-web-farm-framework-20-for-iis.md
-    - name: Hosting the Microsoft Web Platform on Amazon EC2
-      items: 
-        - name: "Amazon EC2: Microsoft Web Platform Images - Wordpress"
-          href: web-hosting/hosting-the-microsoft-web-platform-on-amazon-ec2/amazon-ec2-microsoft-web-platform-images-wordpress.md
-        - name: "Amazon EC2: Microsoft Web Platform - DotNetNuke"
-          href: web-hosting/hosting-the-microsoft-web-platform-on-amazon-ec2/amazon-ec2-microsoft-web-platform-dotnetnuke.md
-        - name: "Amazon EC2: Microsoft Web Platform Images - Media Server"
-          href: web-hosting/hosting-the-microsoft-web-platform-on-amazon-ec2/amazon-ec2-microsoft-web-platform-images-media-server.md
-        - name: "Amazon EC2: Microsoft Web Platform Images - Full Web Server Development Stack"
-          href: web-hosting/hosting-the-microsoft-web-platform-on-amazon-ec2/amazon-ec2-microsoft-web-platform-images-full-web-server-development-stack.md
     - name: Hosting the Microsoft Web Platform on Windows Azure
       items: 
         - name: Managing IIS on Windows Azure via Remote Desktop

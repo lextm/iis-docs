@@ -516,11 +516,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "iis/web-hosting/hosting-the-microsoft-web-platform-on-amazon-ec2/index.md",
-      "redirect_url": "/iis/web-hosting/hosting-the-microsoft-web-platform-on-amazon-ec2/amazon-ec2-microsoft-web-platform-images-wordpress",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "iis/web-hosting/hosting-the-microsoft-web-platform-on-windows-azure/index.md",
       "redirect_url": "/iis/web-hosting/hosting-the-microsoft-web-platform-on-windows-azure/managing-iis-on-windows-azure-via-remote-desktop",
       "redirect_document_id": false
